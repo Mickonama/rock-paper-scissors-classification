@@ -35,6 +35,10 @@ The accumulated score is presented at the end of the game.
 
 ## Implementation steps:
 
+### Image rescaling
+
+We change the image scale from 300x200 to 120x80.
+
 ### Train test split
 
 We split the dataset into a train and test set with a 70-30% split.
