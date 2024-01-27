@@ -35,7 +35,7 @@ The accumulated score is presented at the end of the game.
 
 ## Implementation steps:
 
-### Image rescaling
+### Image resizing
 
 We change the image scale from 300x200 to 120x80.
 
