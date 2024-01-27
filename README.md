@@ -39,6 +39,10 @@ The accumulated score is presented at the end of the game.
 
 We split the dataset into a train and test set with a 70-30% split.
 
+### Normalization
+
+We normalize the dataset to a [0, 1] scale
+
 ### Data augmentation
 
 For the train set, we flip the images on every axis (vertically, horizontally, vertically and horizontally). This way we cover every possible action that the random agent can take. 
